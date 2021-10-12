@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NascimentoSoftware.Livraria.WebApp", "NascimentoSoftware.Livraria\NascimentoSoftware.Livraria.WebApp.csproj", "{2C5B39AB-6B15-42F7-A1B6-E786D2CDA4BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NascimentoSoftware.Livraria.Infraestrutura", "NascimentoSoftware.Livraria.Infraestrutura\NascimentoSoftware.Livraria.Infraestrutura.csproj", "{43075A26-1A90-4235-AA6C-012ECCE87BC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C5B39AB-6B15-42F7-A1B6-E786D2CDA4BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C5B39AB-6B15-42F7-A1B6-E786D2CDA4BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C5B39AB-6B15-42F7-A1B6-E786D2CDA4BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C5B39AB-6B15-42F7-A1B6-E786D2CDA4BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43075A26-1A90-4235-AA6C-012ECCE87BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43075A26-1A90-4235-AA6C-012ECCE87BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43075A26-1A90-4235-AA6C-012ECCE87BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43075A26-1A90-4235-AA6C-012ECCE87BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37E54581-B5D4-45D3-B382-D6F81F58347C}
+	EndGlobalSection
+EndGlobal
